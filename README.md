@@ -1,5 +1,24 @@
 # Dielectric Properties of Body Tissues from 10 to 100 Ghz
 
+relative permittivity
+ penetration depth
+ loss tangent
+ conductivity
+ wavelength
+dielectric properties of aorta tissue
+frequency
+auto_awesome
+
+Google Translation
+
+относительная диэлектрическая проницаемость
+  Глубина проникновения
+  тангенс угла потерь
+  проводимость
+  длина волны
+Диэлектрические свойства ткани аорты
+частота
+
 - [Air](https://barionleg.github.io/dielectric-properties-of-body-tissues/graphs/air.html)
 - [Aorta](https://barionleg.github.io/dielectric-properties-of-body-tissues/graphs/aorta.html)
 - [Bladder](https://barionleg.github.io/dielectric-properties-of-body-tissues/graphs/bladder.html)
