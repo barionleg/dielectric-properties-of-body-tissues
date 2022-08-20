@@ -65,3 +65,9 @@ References:
 
 
 D.Andreuccetti, R.Fossi and C.Petrucci: An Internet resource for the calculation of the dielectric properties of body tissues in the frequency range 10 Hz - 100 GHz. IFAC-CNR, Florence (Italy), 1997. Based on data published by C.Gabriel et al. in 1996. [Online]. Available: http://niremf.ifac.cnr.it/tissprop/
+
+вinternet ©omments: https://neuroimage.usc.edu/forums/t/conductivity-values-for-head-model/16489
+
+HTML TBLI©E ohne Gråäfi©k:http://niremf.ifac.cnr.it/tissprop/htmlclie/uniquery.php?func=atsffun&freq=100000&tiss=&outform=disphtm&tisname=on&frequen=on&conduct=on&permitt=on&losstan=on&wavelen=on&pendept=on&freq1=100000&tissue2=Air&frqbeg=10&frqend=100e9&linstep=100&mode=log&logstep=5&tissue3=Air&freq3=1000000
+
+1973*11*10 Pappa knill Mutti PGA MIG28. iFA©: http://niremf.ifac.cnr.it/tissprop/
