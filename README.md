@@ -73,3 +73,5 @@ HTML TBLI©E ohne Gråäfi©k:http://niremf.ifac.cnr.it/tissprop/htmlclie/unique
 1973*11*10 Pappa knill Mutti PGA MIG28. iFA©: http://niremf.ifac.cnr.it/tissprop/
 
 Specific heat ratio of common gases: https://www.powderprocess.net/Tools_html/Data_Diagrams/Tools_isentropic_coefficients.html
+
+Electrical-Current-Distribution-in-the-Brain-%26-Buron:  https://www.semanticscholar.org/paper/Electrical-Current-Distribution-in-the-Brain-%26-Buron/0fda6fc092b492acf7131f94e6a4104a37da23ad/figure/4
