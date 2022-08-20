@@ -71,3 +71,4 @@ D.Andreuccetti, R.Fossi and C.Petrucci: An Internet resource for the calculation
 HTML TBLI©E ohne Gråäfi©k:http://niremf.ifac.cnr.it/tissprop/htmlclie/uniquery.php?func=atsffun&freq=100000&tiss=&outform=disphtm&tisname=on&frequen=on&conduct=on&permitt=on&losstan=on&wavelen=on&pendept=on&freq1=100000&tissue2=Air&frqbeg=10&frqend=100e9&linstep=100&mode=log&logstep=5&tissue3=Air&freq3=1000000
 
 1973*11*10 Pappa knill Mutti PGA MIG28. iFA©: http://niremf.ifac.cnr.it/tissprop/
+Specific heat ratio of common gases: https://www.powderprocess.net/Tools_html/Data_Diagrams/Tools_isentropic_coefficients.html
