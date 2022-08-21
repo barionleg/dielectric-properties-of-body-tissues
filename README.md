@@ -3,7 +3,7 @@
 Next to create: Thermoacustic brain decoder & AromAT Igenkännings Maskin (махвин ШвеДскu); Зайнтирисованные вербовщики обращайтесь, без му тантскийх моовиес итд.
 ведь вы даже стандарт гостепиимства Грузия не Держете, а значить вы против ГÖСТuДBАРСТВА₽$.
 
-Autorre du RÖM, RIM, RuM RAM, REM, ₽®M
+Autorre$ du RÖM, RIM, RuM RAM, REM, ₽®M
 
 https://github.com/barionleg/thermoacoustic_brain_decoder
 
